@@ -24,3 +24,5 @@ Our project demonstrate object detection application using the YOLO(You Only Loo
     - train
     - diningtable
     - bus
+***YOLO OBJECT DETECTION FROM IMAGES***
+![YOLO OBJECT DETECTION FROM IMAGES](path/to/your/image.png)
