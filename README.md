@@ -24,5 +24,9 @@ Our project demonstrate object detection application using the YOLO(You Only Loo
     - train
     - diningtable
     - bus
+    
 ***YOLO OBJECT DETECTION FROM IMAGES***
 ![YOLO OBJECT DETECTION FROM IMAGES](img_prediction_result.jpg)
+
+***YOLO OBJECT DETECTION FROM video***
+![YOLO OBJECT DETECTION FROM VIDEO](img_prediction_result.jpg)
