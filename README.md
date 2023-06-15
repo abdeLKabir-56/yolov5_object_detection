@@ -30,6 +30,6 @@ Our project demonstrate object detection application using the YOLO(You Only Loo
 
 ***YOLO OBJECT DETECTION FROM video***
 
-[![Video Demo](img_prediction_result.jpg)](https://youtu.be/MezvI1JhB0Y)
+[![Video Demo](img_prediction_result.jpg)](https://www.youtube.com/watch?v=MezvI1JhB0Y)
 
 
