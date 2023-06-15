@@ -29,4 +29,6 @@ Our project demonstrate object detection application using the YOLO(You Only Loo
 ![YOLO OBJECT DETECTION FROM IMAGES](img_prediction_result.jpg)
 
 ***YOLO OBJECT DETECTION FROM video***
-![YOLO OBJECT DETECTION FROM VIDEO](YOLO OBJECT DETECTION FROM VIDEO.mp4)
+
+[![Video Demo](img_prediction_result.jpg)](YOLO OBJECT DETECTION FROM VIDEO.mp4)
+
