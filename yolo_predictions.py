@@ -11,12 +11,12 @@ from yaml import SafeLoader
 class Yolo_Pred:
     def __init__(self,onnx_model,data_yaml):
         #load yaml
-        with open('data.yaml',mode='r') as f:
+        with open('./models/data.yaml',mode='r') as f:
             data_yaml=yaml.load(f,Loader=SafeLoader)
         self.labels=data_yaml['names']
         self.nc=data_yaml['nc']
         #load yolo model
-        self.yolo=cv2.dnn.readNetFromONNX('./Model/weights/best.onnx')
+        self.yolo=cv2.dnn.readNetFromONNX('./models/best.onnx')
         self.yolo.setPreferableBackend(cv2.dnn.DNN_BACKEND_OPENCV)
         self.yolo.setPreferableTarget(cv2.dnn.DNN_TARGET_CPU)
      
